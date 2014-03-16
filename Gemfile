@@ -1,4 +1,7 @@
-source 'https://rubygems.org'
+source 'http://10.1.8.147:8808' #This is a fix for the network today
+
+#Normally you'd use
+#source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.4'
